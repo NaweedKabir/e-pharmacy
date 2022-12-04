@@ -2,7 +2,7 @@
   "name": "client",
   "version": "1.0.0",
   "description": "A MEVN Stack implemented Pharmacy Database Management System",
-  "author": "Tahsinur Rahman <tahsinur72@gmail.com>",
+  "author": "Naweed Kabir <acad.naweedkabir@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
